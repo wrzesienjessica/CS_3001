@@ -1,6 +1,8 @@
 # CS_3001 - Term Paper
 CS 3001 Computating & Society
+
 Spring 2024
+
 Dr. Clint Zeagler
 
 
